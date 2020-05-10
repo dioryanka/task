@@ -1,0 +1,10 @@
+hu\ponte\hr\controller\upload\UploadController.class
+hu\ponte\hr\controller\ImageMeta.class
+hu\ponte\hr\controller\ImagesController.class
+hu\ponte\hr\services\SignService.class
+hu\ponte\hr\config\AppConfig.class
+hu\ponte\hr\SeniorTestApplication.class
+hu\ponte\hr\services\ImageMetaHolder.class
+hu\ponte\hr\config\MvcConfig$1.class
+hu\ponte\hr\services\ImageStore.class
+hu\ponte\hr\config\MvcConfig.class
